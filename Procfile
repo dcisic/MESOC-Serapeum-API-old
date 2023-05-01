@@ -1,0 +1,1 @@
+web: gunicorn mesoc3.wsgi
